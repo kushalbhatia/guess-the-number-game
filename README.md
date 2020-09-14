@@ -1,8 +1,4 @@
-# README
-
-My first Python Project - Guess the Number Game
-
-Rules:
+# My first Python Project - Guess the Number Game
 
 1. A user must input their name
 2. The computer is thinking of a number between 1 and 20
